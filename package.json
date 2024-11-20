@@ -9,7 +9,7 @@
     "start": "node src/index.js",
     "build": "webpack --watch"
   },
-  "author": "Junaid Khan",
+  "author": "Suraj parmar",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.2",
